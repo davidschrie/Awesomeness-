@@ -1,0 +1,18 @@
+/* Body Element background color green */
+body {background-color: green}
+/* class of 50 element have a boarder of a dotted purple line any size */
+.FirstDate50{
+    border: dotted purple 2px;
+    font-weight: bold;
+}
+/* Remove the bullets */
+ul{
+    list-style:none;
+}
+/* Center Gump Element */
+.Gump{
+    text-align: center
+}
+li{
+    margin: 100px
+}
